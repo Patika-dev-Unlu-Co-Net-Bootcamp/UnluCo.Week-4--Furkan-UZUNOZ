@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\bin\Debug\net5.0\UnluCo.Bank.DataLayer.deps.json
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\bin\Debug\net5.0\UnluCo.Bank.DataLayer.dll
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\bin\Debug\net5.0\ref\UnluCo.Bank.DataLayer.dll
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\bin\Debug\net5.0\UnluCo.Bank.DataLayer.pdb
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\UnluCo.Bank.DataLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\UnluCo.Bank.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\UnluCo.Bank.DataLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\UnluCo.Bank.DataLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\UnluCo.Bank.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\UnluCo.Bank.DataLayer.dll
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\ref\UnluCo.Bank.DataLayer.dll
+C:\Users\ASUS\source\repos\UnluCo.Bank.WEBAPI\DataLayer\obj\Debug\net5.0\UnluCo.Bank.DataLayer.pdb
